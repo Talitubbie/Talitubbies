@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TaliTubbie ($TUBBY)</title>
+    <style>
+        body {
+            background-color: #111;
+            color: white;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-size: 3rem;
+            margin-top: 50px;
+        }
+        .meme {
+            width: 80%;
+            max-width: 500px;
+            margin: 20px auto;
+        }
+        .btn {
+            background-color: #ff0000;
+            color: white;
+            padding: 15px 30px;
+            font-size: 1.5rem;
+            border: none;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        .btn:hover {
+            background-color: #cc0000;
+        }
+        a {
+            color: #00ffcc;
+            text-decoration: none;
+            font-size: 1.2rem;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🚀 Welcome to TaliTubbie ($TUBBY) 🚀</h1>
+    <p>No Rugz, No Dumps—Just Pure Intergalactic Love!</p>
+
+    <img class="meme" src="your-meme-image.jpg" alt="TaliTubbie Meme">
+
+    <p>$TUBBY is here to save the trenches. Join us or stay broke.</p>
+
+    <button class="btn">BUY $TUBBY NOW</button>
+
+    <p>Follow us:  
+        <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> |  
+        <a href="https://t.me/yourtelegram" target="_blank">Telegram</a>
+    </p>
+
+</body>
+</html>
